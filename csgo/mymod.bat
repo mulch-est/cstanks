@@ -1,1 +1,0 @@
-start "" "steam://run/730//-game mymod/csgo"

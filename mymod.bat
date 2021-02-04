@@ -1,1 +1,1 @@
-start "" "steam://run/730//-game mymod"
+start "" "steam://run/730//-game mymod\\csgo -console +exec autoexec.cfg"
